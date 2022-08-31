@@ -5,7 +5,7 @@ A novel network core structure extraction algorithm utilized variational autoenc
 
 ## Website Instruction
 
-
+Please follow the content in Instruction.pdf
 
 ## Datasets
 
