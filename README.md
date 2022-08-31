@@ -1,7 +1,7 @@
 # CSEA
 A novel network core structure extraction algorithm utilized variational autoencoder for community detection.
 
-### We have currently completed the test site for the CSEA algorithm. URL: http://39.99.195.136:8081/. ###
+### We have currently completed the test website for the CSEA algorithm. URL: http://39.99.195.136:8081/. ###
 
 ## Website Instruction
 
