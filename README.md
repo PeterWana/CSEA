@@ -27,7 +27,7 @@ The experimental data for the remaining unmentioned algorithms are based on the 
 
 ## Visualization Tool
 
-Gephi: https://gephi.org/.
+Gephi: https://gephi.org/. 
 
 
 
