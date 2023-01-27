@@ -9,7 +9,7 @@ Please follow the content in Website_Instruction.pdf
 
 ## Datasets
 
-The network datasets are available at: http://wwwpersonal.umich.edu/~mejn/netdata/, https://linqs.soe.ucsc.edu/data and http://snap.stanford.edu/data/index.html.
+The network datasets are available at: http://www-personal.umich.edu/~mejn/netdata/, https://linqs.org/datasets/ and http://snap.stanford.edu/data/index.html.
 
 ## Comparison Algorithms
 
