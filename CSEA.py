@@ -10,7 +10,7 @@ from keras import metrics
 import numpy as np
 from keras import optimizers
 from tensorflow import optimizers
-import ctypes
+import ctype
 
 def k_truss(filename):
     """
